@@ -1,0 +1,7 @@
+author: AdamGaltrey
+version: 1.0.0
+main: com.adamgaltrey.islesarena.IslesArena
+name: IslesArena
+commands:
+  islesarena:
+    aliases: [ia]
